@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+.container{
+    margin-top: 5%;
+}
+.border{
+    padding: 10px;
+}
+.btn{
+    margin-right: 10px;
+}
+.fa{
+    margin-right: 10px;
+}
